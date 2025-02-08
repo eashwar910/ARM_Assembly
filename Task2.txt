@@ -1,0 +1,73 @@
+Expenses
+
+Opening Balance - 2200
+
+
+8/12
+
+Breakfast - 8
+Lunch - 0
+Dinner - 10
+
+Total - 18
+
+9/12
+
+Breakfast - 0
+Lunch - 10
+Dinner - 9.5
+
+Total - 19.5
+
+10/12
+
+Breakfast - 9
+Lunch - 0
+Dinner - 12
+
+Total - 21
+
+11/12 
+
+Breakfast - 8
+Lunch - 12
+Dinner - 0
+
+Total - 20
+
+12/12
+
+Breakfast - 10
+Lunch - 12
+Dinner - 9
+Laundry - 7
+
+Total 38
+
+13/12
+
+Breakfast - 9
+Lunch - 10
+Dinner - 9.5
+
+Total - 28.5
+
+14/11
+
+Breakfast - 10
+Lunch - 12
+Dinner - 10
+Game Renting - 10
+
+total - 42
+
+Total Spent on Food - 176
+Laundry and Other expenses - 18
+TOtal - 194
+
+Closing Balance - 2006
+
+
+
+
+
